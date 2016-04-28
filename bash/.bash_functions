@@ -20,3 +20,13 @@ reload_bash() {
 	source ~/.bashrc
 	clear
 }
+
+avenv() {
+	source bin/activate
+}
+
+htmlserve() {
+	python -m SimpleHTTPServer 8000
+}
+
+alias pye="python3"
