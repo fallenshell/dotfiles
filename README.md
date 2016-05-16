@@ -1,7 +1,7 @@
 # dotfiles
 My dotfiles and shell configs. Here I keep my bash prompts, IDE/Editor settings, etc. 
 
-## Installation
+### Installation
 The system is structured in a way that makes it easy to install.
 
     git clone https://github.com/fallenshell/dotfiles.git
@@ -11,14 +11,14 @@ The system is structured in a way that makes it easy to install.
     
 This will clear your console, refreshing your bash setup and applying the newest functions. 
 
-## Updating
+### Updating
 Just do a git pull. The bash.conf file just looks for the git path and uses the file there. After the git pull, execute:
 
     reload_bash
   
 And you're good to go, with your updated configurations set in your current environment.
 
-## Essential aliases and functions for Bash
+### Essential aliases and functions for Bash
 I use many aliases to aid my development workflow in many languages. Here are some of the essential functions:
 
     git_setup <name> <email>
