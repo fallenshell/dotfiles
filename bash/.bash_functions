@@ -7,7 +7,7 @@ rant() {
  echo "AHHH"
 }
 
-gitsetup() {
+git_setup() {
  git config --global user.email $1
  git config --global user.name $2
 }
@@ -21,11 +21,11 @@ reload_bash() {
 	clear
 }
 
-avenv() {
+avv() {
 	source bin/activate
 }
 
-htmlserve() {
+html_serve() {
 	python -m SimpleHTTPServer 8000
 }
 
