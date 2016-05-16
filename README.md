@@ -21,21 +21,21 @@ And you're good to go, with your updated configurations set in your current envi
 ## Essential aliases and functions for Bash
 I use many aliases to aid my development workflow in many languages. Here are some of the essential functions:
 
-  git_setup <name> <email>
+    git_setup <name> <email>
   Sets up git for system-wide usage.
   
-  mkcd <name>
+    mkcd <name>
   Creates a directory and changes to it.
   
-  reload_bash
+    reload_bash
   Reloads all bash configuration files and clears your prompt.
   
-  avv
+    avv
   Activates a Python virtualenv from root directory
   
-  html_serve
+    html_serve
   Serves the current directory as an HTML server for design work
   
-  pye
+    pye
   (py execute)
   Alias for python3
