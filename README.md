@@ -1,5 +1,5 @@
 # dotfiles
-My dotfiles and shell configs. Here I keep my bash prompts, IDE/Editor settings, etc. 
+My dotfiles and shell configs. Here I keep my bash prompts, IDE/Editor settings, etc... 
 
 ### Installation
 The system is structured in a way that makes it easy to install.
