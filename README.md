@@ -1,4 +1,4 @@
-# dotfiles
+# dotfiles.
 My dotfiles and shell configs. Here I keep my bash prompts, IDE/Editor settings, etc. 
 
 ### Installation
