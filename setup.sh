@@ -3,3 +3,4 @@
 cat conf/bash.conf >> ~/.bashrc
 source ~/.bashrc
 clear
+  
